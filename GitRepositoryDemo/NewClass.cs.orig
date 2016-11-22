@@ -12,8 +12,10 @@ namespace GitRepositoryDemo
         //branch feature
         //new changes for master
 
+<<<<<<< Updated upstream
         //new commit
-
+=======
         //these changes will be stashed.
+>>>>>>> Stashed changes
     }
 }
