@@ -9,5 +9,7 @@ namespace GitRepositoryDemo
     class NewClass
     {
         // new coded added to new class
+        //branch feature
+        //new changes for master
     }
 }
