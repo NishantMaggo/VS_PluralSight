@@ -11,5 +11,7 @@ namespace GitRepositoryDemo
         // new coded added to new class
         //branch feature
         //new changes for master
+
+        //new commit
     }
 }
