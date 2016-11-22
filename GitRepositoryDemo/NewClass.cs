@@ -15,5 +15,8 @@ namespace GitRepositoryDemo
         //new commit
 
         //these changes will be stashed.
+
+        //changes from visual studio team explorer
+
     }
 }
