@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitRepositoryDemo
 {
-    class Program
+    class NewClass
     {
-        static void Main(string[] args)
-        {
-            //test
-
-        }
+        // new coded added to new class
     }
 }
